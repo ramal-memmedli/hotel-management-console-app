@@ -1,1 +1,1 @@
-# hoteltask
+# Hotel Management console application.
